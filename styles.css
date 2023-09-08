@@ -11,6 +11,7 @@ body {
 
     color: white;
     background-color: #370617;
+
 }
 
 div {
@@ -153,7 +154,7 @@ button {
     font-size: 2vh;
     border: .6vh solid #03071E;
     color: white;
-    background-color: #DC2F02;
+    background-color: #E85D04;
     justify-content: center;
     align-items: center;
 }
@@ -166,7 +167,7 @@ button {
 }
 
 button:hover {
-    background-color: #E85D04;
+    background-color: #F48C06;
     border: .7vh solid #03071E;
     box-shadow: 0px 0px 1vh 1vh rgba(0, 0, 0, .3);
 }
